@@ -1,61 +1,46 @@
+```markdown
 # Before You Believe. Before You Share.
 
-A digital literacy handbook for students aged 14–17, available in **Macedonian, Albanian and English**.
+**A school handbook on digital literacy for students aged 14–17.**
 
-The handbook teaches students how to check information, understand how online content is selected, recognise AI-generated media, protect personal data and respond to cyberbullying. It combines clear explanations, practical steps, visual summaries and downloadable school posters.
+Being online means making choices: what to believe, what to share, what to keep private and how to treat others. This handbook explains the knowledge and practical steps behind those choices.
 
-## Languages
+Available in **Македонски · Shqip · English**.
 
-| Language | Website file |
-| --- | --- |
-| Македонски | `index.html` |
-| Shqip | `sq/index.html` |
-| English | `en/index.html` |
+## Inside the Handbook
 
-Students can switch languages from the top of the website.
+🔎 **Check information**
+Identify the source, examine the evidence and understand the context before believing or sharing a claim.
 
-## What the handbook covers
+📱 **Understand your feed**
+Learn how algorithms select content and why popularity does not prove accuracy.
 
-- **Checking information:** sources, evidence, context, misinformation and disinformation, and five steps before sharing.
-- **Algorithms:** how online activity can influence recommendations and how to make deliberate choices about content.
-- **AI and deepfakes:** generated images, voices and video, verification and responsible AI use.
-- **Privacy and security:** personal data, consent, app permissions, phishing, passwords and two-factor authentication.
-- **Cyberbullying:** saving evidence, reporting, seeking support and helping others.
-- **Responsible content creation:** accurate messages, reliable sources and respectful publication.
-- **School posters:** five downloadable posters in each language.
+🤖 **Understand AI and deepfakes**
+Learn how AI can create or alter images, voices and videos, and how to check their authenticity.
 
-## Using it in school
+🔐 **Protect your privacy**
+Understand personal data, consent, app permissions, phishing and account security.
 
-Use the handbook for individual reading, classroom explanations and school awareness activities. Students can open a topic directly or follow the handbook in order. Teachers can demonstrate information checks using a public source they have verified beforehand.
+💬 **Respond to cyberbullying**
+Learn how to preserve evidence, report harmful behaviour, seek support and help someone else.
 
-The handbook includes a print option. Original posters are available as PNG files for separate printing.
+✏️ **Create responsibly**
+Make posts, posters and videos with accurate information, clear sources and respect for others.
 
-After the website is published, a QR code linking to its public address can be placed alongside the posters or on a school noticeboard.
+## For Students and Schools
 
-## Open locally
+The handbook can be used for independent reading, classroom teaching and school awareness activities. Its visual explanations and practical guidance help students connect digital literacy with their everyday online behaviour.
 
-Download the repository or extract the complete ZIP, then open `index.html` in a browser. Keep the `assets`, `sq` and `en` folders in place.
+The repository also contains **five school posters in each language**, covering information verification, misinformation, disinformation and cyberbullying.
 
-The handbook text, illustrations and posters work offline. External reading links require an internet connection. No installation or build process is needed.
-
-## Publish with GitHub Pages
-
-1. Upload the contents of this folder to the root of a public GitHub repository, including `.nojekyll`.
-2. Open **Settings → Pages**.
-3. Under **Source**, select **Deploy from a branch**.
-4. Select the branch containing the files, usually **main**, and **/ (root)**, then save.
-5. Open the published website and check its languages and poster links on a phone.
-6. Create the school QR code using the confirmed public website address. Keep that address stable after printing.
-
-See the [official GitHub Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
-## Educational references
+## Educational References
 
 - [Digital Inquiry Group — Civic Online Reasoning](https://cor.inquirygroup.org/)
 - [UNESCO — Media and Information Literacy](https://www.unesco.org/en/media-information-literacy)
 - [UNICEF — Cyberbullying](https://www.unicef.org/lac/en/cyberbullying-what-is-it-and-how-stop-it)
 - [NIST — Phishing](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing)
 
-## Credits
+## Author
 
-Prepared by **Suad Seferi**. The cover illustration was created with AI and is labelled accordingly on the website.
+**Suad Seferi**
+```
