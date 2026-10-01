@@ -1,37 +1,61 @@
-# School digital handbook
+# Before You Believe. Before You Share.
 
-Three-language school handbook for students aged 14–17, based on the supplied presentations, practical group task and original posters. Teaches information verification, misinformation and disinformation, feeds and algorithms, AI-generated media, personal data, suspicious links, account security, cyberbullying and responsible content creation through definitions and direct instructions.
+A digital literacy handbook for students aged 14–17, available in **Macedonian, Albanian and English**.
 
-## Open the guide
+The handbook teaches students how to check information, understand how online content is selected, recognise AI-generated media, protect personal data and respond to cyberbullying. It combines clear explanations, practical steps, visual summaries and downloadable school posters.
 
-Open `index.html` in a browser. It starts in Macedonian. The language links open Albanian and English versions. All guide content, poster previews and original PNG downloads are included locally. Only the further-reading links need an internet connection.
+## Languages
 
-## Publish on GitHub Pages
+| Language | Website file |
+| --- | --- |
+| Македонски | `index.html` |
+| Shqip | `sq/index.html` |
+| English | `en/index.html` |
 
-1. Create a public GitHub repository and upload the contents of this folder, keeping the `assets`, `sq` and `en` folders in place.
-2. In the repository, open **Settings → Pages**.
-3. Choose **Deploy from a branch**, then **main** and **/ (root)**. Save.
-4. Open the published address and check all three languages and poster links on a phone.
-5. Generate the QR code only after confirming the final public address. Keep the repository name and address unchanged after printing it.
+Students can switch languages from the top of the website.
 
-No installation, build process, database or paid hosting is required. `.nojekyll` is included for static publishing.
+## What the handbook covers
 
-## Contents
+- **Checking information:** sources, evidence, context, misinformation and disinformation, and five steps before sharing.
+- **Algorithms:** how online activity can influence recommendations and how to make deliberate choices about content.
+- **AI and deepfakes:** generated images, voices and video, verification and responsible AI use.
+- **Privacy and security:** personal data, consent, app permissions, phishing, passwords and two-factor authentication.
+- **Cyberbullying:** saving evidence, reporting, seeking support and helping others.
+- **Responsible content creation:** accurate messages, reliable sources and respectful publication.
+- **School posters:** five downloadable posters in each language.
 
-- `index.html`: Macedonian guide
-- `sq/index.html`: Albanian guide
-- `en/index.html`: English guide
-- `style.css`: responsive and print styles
-- `assets/`: original supplied posters, compressed previews and original cover illustration
+## Using it in school
 
-The original posters are preserved. The handbook adds explanatory text and links to Digital Inquiry Group, UNESCO, UNICEF and NIST. It contains no project logo, hypothetical message exercise, choice quiz or blank worksheet. The print layout includes the reading sections; original posters can be downloaded and printed separately.
+Use the handbook for individual reading, classroom explanations and school awareness activities. Students can open a topic directly or follow the handbook in order. Teachers can demonstrate information checks using a public source they have verified beforehand.
 
-The visual edition uses a violet, cream and lime palette and an illustrated cover. Topic and chapter headings use practical icons instead of numbers. Reading sections include a source/evidence/context visual, a comparison of misinformation and disinformation, an algorithm flow, security checks and support actions. Numbering appears only in the five-step verification sequence. There is no eyebrow text above the cover title. All icons are included locally, and no external fonts or scripts are required.
+The handbook includes a print option. Original posters are available as PNG files for separate printing.
 
-## Cover illustration
+After the website is published, a QR code linking to its public address can be placed alongside the posters or on a school noticeboard.
 
-Created with the built-in image generation tool. The website labels it as AI-generated. The full image is `assets/handbook-cover.png`; the compressed website asset is `assets/handbook-cover.webp`.
+## Open locally
 
-Final prompt:
+Download the repository or extract the complete ZIP, then open `index.html` in a browser. Keep the `assets`, `sq` and `en` folders in place.
 
-> Use case: stylized-concept. Asset type: cover illustration for a digital media literacy school handbook for ages 14 to 17. Create an exceptionally designed editorial collage, a visually striking tactile magazine cover illustration, square composition. A large realistic sculptural smartphone tilted diagonally, its screen composed of contrasting layered torn paper, a photograph fragment of an eye, a camera lens, and abstract stacked media windows WITHOUT any written content. Surrounding: a single large magnifying glass examining the screen and a folded paper privacy shield, connected by subtle curved lines. This is conceptual visual art for critical thinking, information verification and privacy. Mix sophisticated cut-paper collage with soft clay-like 3D objects and grainy photographic textures. Deep royal violet background, warm ivory paper, electric lime green accents, a small cobalt blue accent. Strong purposeful art direction, clean dynamic composition with generous space, depth and beautiful sharp shadows. Bold and appealing for older teenagers, contemporary youth culture editorial rather than corporate tech. No children, no people, no cartoon mascots, no generic outline icons, no text, no numbers, no letters, no logos, no watermarks. The illustration must not look like a UI screenshot or a poster with text.
+The handbook text, illustrations and posters work offline. External reading links require an internet connection. No installation or build process is needed.
+
+## Publish with GitHub Pages
+
+1. Upload the contents of this folder to the root of a public GitHub repository, including `.nojekyll`.
+2. Open **Settings → Pages**.
+3. Under **Source**, select **Deploy from a branch**.
+4. Select the branch containing the files, usually **main**, and **/ (root)**, then save.
+5. Open the published website and check its languages and poster links on a phone.
+6. Create the school QR code using the confirmed public website address. Keep that address stable after printing.
+
+See the [official GitHub Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+
+## Educational references
+
+- [Digital Inquiry Group — Civic Online Reasoning](https://cor.inquirygroup.org/)
+- [UNESCO — Media and Information Literacy](https://www.unesco.org/en/media-information-literacy)
+- [UNICEF — Cyberbullying](https://www.unicef.org/lac/en/cyberbullying-what-is-it-and-how-stop-it)
+- [NIST — Phishing](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing)
+
+## Credits
+
+Prepared by **Suad Seferi**. The cover illustration was created with AI and is labelled accordingly on the website.
