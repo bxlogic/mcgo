@@ -1,4 +1,3 @@
-```markdown
 # Before You Believe. Before You Share.
 
 **A school handbook on digital literacy for students aged 14–17.**
@@ -9,22 +8,22 @@ Available in **Македонски · Shqip · English**.
 
 ## Inside the Handbook
 
-🔎 **Check information**
+🔎 **Check information**  
 Identify the source, examine the evidence and understand the context before believing or sharing a claim.
 
-📱 **Understand your feed**
+📱 **Understand your feed**  
 Learn how algorithms select content and why popularity does not prove accuracy.
 
-🤖 **Understand AI and deepfakes**
+🤖 **Understand AI and deepfakes**  
 Learn how AI can create or alter images, voices and videos, and how to check their authenticity.
 
-🔐 **Protect your privacy**
+🔐 **Protect your privacy**  
 Understand personal data, consent, app permissions, phishing and account security.
 
-💬 **Respond to cyberbullying**
+💬 **Respond to cyberbullying**  
 Learn how to preserve evidence, report harmful behaviour, seek support and help someone else.
 
-✏️ **Create responsibly**
+✏️ **Create responsibly**  
 Make posts, posters and videos with accurate information, clear sources and respect for others.
 
 ## For Students and Schools
@@ -43,4 +42,3 @@ The repository also contains **five school posters in each language**, covering 
 ## Author
 
 **Suad Seferi**
-```
